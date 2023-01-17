@@ -11,12 +11,12 @@ Rules:
 3) There are three game modes: Baby, Normal, and Nightmare <br>
    a) Game mode dictates: <br>
       i)   How many polka dots spawn <br> 
-      ii)  How many times polka dots explode
-      iii) How fast polka dots move
+      ii)  How many times polka dots explode <br>
+      iii) How fast polka dots move <br>
 
-Below is a quick demo: \n
+Below is a quick demo: <br>
 https://user-images.githubusercontent.com/55325528/213013844-3db6d625-4a86-4911-b00e-49bd62e2a69b.mp4
-
-Notes:
+<br>
+Notes: <br>
 1) The recording software distorted the cursor size & location
 2) The recording software distorted window sizes
