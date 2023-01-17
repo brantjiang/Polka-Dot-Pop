@@ -17,6 +17,6 @@ Rules:
 Below is a quick demo: <br>
 https://user-images.githubusercontent.com/55325528/213013844-3db6d625-4a86-4911-b00e-49bd62e2a69b.mp4
 <br>
-Notes: <br>
+Notes: 
 1) The recording software distorted the cursor size & location
 2) The recording software distorted window sizes
