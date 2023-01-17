@@ -14,7 +14,7 @@ Rules:
       ii)  How many times polka dots explode
       iii) How fast polka dots move
 
-Below is a quick demo:
+Below is a quick demo: \n
 https://user-images.githubusercontent.com/55325528/213013844-3db6d625-4a86-4911-b00e-49bd62e2a69b.mp4
 
 Notes:
