@@ -8,9 +8,9 @@ Goal:
 Rules:
 1) Polka dots will explode into smaller dots when clicked
 2) After a certain point, polka dots will disappear when clicked
-3) There are three game modes: Baby, Normal, and Nightmare
-   Game mode dictates: 
-      i)   How many polka dots spawn 
+3) There are three game modes: Baby, Normal, and Nightmare <br>
+   a) Game mode dictates: <br>
+      i)   How many polka dots spawn <br> 
       ii)  How many times polka dots explode
       iii) How fast polka dots move
 
