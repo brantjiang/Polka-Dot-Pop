@@ -15,7 +15,7 @@ Rules:
       iii) How fast polka dots move <br>
 
 Below is a quick demo: <br>
-https://user-images.githubusercontent.com/55325528/213015134-4de2eea7-5efa-4dd8-bfac-9dcee9d2863f.mp4
+![demo](https://user-images.githubusercontent.com/55325528/213015134-4de2eea7-5efa-4dd8-bfac-9dcee9d2863f.mp4)
 <br>
 <br>
 Notes: 
